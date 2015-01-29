@@ -1,0 +1,26 @@
+- what is jsig?
+  - history
+    - started in April 2013 at AgileMD to help humans communicate about code
+    - ad hoc, to document function signatures
+    - later, to document object structures
+    - grew out of ideas explored in npm.im/tracery
+  - goals: precise & concise & for humans
+  - pointers to other things: jsonschema, typescript, atscript, flow
+- get started using it
+  - complementary to markdown, javascript comments
+    - AgileMD uses it in documentation, github issues, and source comments
+  - syntax
+    - Any
+    - literal values
+    - builtin types
+    - `type` & complex types
+    - Generics
+    - Functions
+    - types as sets
+    - fun examples
+    - ontology & subtyping
+  - tools
+    - parser
+    - fuzzer
+    - checker
+- feedback
