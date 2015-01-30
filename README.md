@@ -1,4 +1,4 @@
-- what is jsig?
+- what is [jsig](http://jsig.biz)?
   - history
     - started in April 2013 at AgileMD to help humans communicate about code
     - ad hoc, to document function signatures
